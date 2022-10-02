@@ -1,4 +1,4 @@
-# docker-php-8-0-lamp
+# docker-php-8-0-lamp-ssl
 Docker container with php-8-0, apache, phpmyadmin, mariadb & ssl
 
 ### Usage
